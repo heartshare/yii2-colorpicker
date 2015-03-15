@@ -1,0 +1,21 @@
+{
+    "name": "docao/yii2-colorpicker",
+    "description": "A Lightweight Colorpicker",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "docv",
+            "email": "docao2005@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "docao\\colorpicker\\": ""
+        }
+    }
+}
